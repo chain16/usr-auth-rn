@@ -6,12 +6,12 @@ import {StackNavigator} from 'react-navigation';
 import { FormLabel, FormInput } from 'react-native-elements'
 
 firebase.initializeApp({
-    apiKey: "AIzaSyCfFWc9KYP3Na0Q5gxB8FjWv83JTLM7DYM",
-    authDomain: "usr-auth-rn.firebaseapp.com",
-    databaseURL: "https://usr-auth-rn.firebaseio.com",
-    projectId: "usr-auth-rn",
-    storageBucket: "usr-auth-rn.appspot.com",
-    messagingSenderId: "1092894899371"
+    apiKey: // Not on my watch
+    authDomain: // Not on my watch
+    databaseURL: // Not on my watch
+    projectId: // Not on my watch
+    storageBucket: // Not on my watch
+    messagingSenderId: // Not on my watch
   });
 
 
